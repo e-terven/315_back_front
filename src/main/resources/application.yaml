@@ -1,12 +1,6 @@
 server:
   port: 315
-#  servlet:
-#    context-path: /api
-#Connector:
-#  port: 310555
-#  protocol: HTTP/1.1
-#  connectionTimeout: 20000
-#  redirectPort: 8443
+
 
 logging:
   level:
